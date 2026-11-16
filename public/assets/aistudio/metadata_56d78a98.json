@@ -1,0 +1,6 @@
+{
+  "name": "اسلام تایمز | پایگاه خبری شش زبانه",
+  "description": "پایگاه خبری تحلیلی اسلام تایمز — پوشش لحظه‌ای اخبار ایران، آسیا، غرب آسیا، آفریقا، اروپا، آمریکا و بخش‌های ویژه چندرسانه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
